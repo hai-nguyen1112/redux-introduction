@@ -31,3 +31,11 @@
     transform: rotate(360deg);
   }
 }
+
+#timer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: pink;
+}
